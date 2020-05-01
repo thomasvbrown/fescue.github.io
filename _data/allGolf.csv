@@ -1,9 +1,9 @@
 Region,Country,Location,Course,Date,Architect,TypeOfJob,Status,History,Latitude,Longitude,Website,YouTube,Instagram,Comments,YouTubeCaption
 Asia,Cambodia,Phnom Penh,Vattanac-East,2019,Faldo,New,Open,,11.4688376,105.0167496,https://www.vattanacgolfresort.com/,Z6zdXBNqh48,vattanac.golf.resort,,Flyover
 Asia,Cambodia,Phnom Penh,Vattanac-West,2020,Faldo,New,Construction,,11.4688376,105.0167496,https://www.vattanacgolfresort.com/,,vattanac.golf.resort,,
-Asia,India,Kerala,Trivandrum,2021*,Nandrajog,Greens,Drawing boards,Thompson,8.5224668,76.964031,http://saitrivandrumgolfclub.com/home/,4xE0QDVYD5Y,,,2017
+Asia,India,Kerala,Trivandrum,2021,Nandrajog,Greens,Drawing boards,Thompson,8.5224668,76.964031,http://saitrivandrumgolfclub.com/home/,4xE0QDVYD5Y,,,2017
 Asia,India,Punjab,Chandigarh ,2020,Nandrajog,Greens,Construction,,30.7378785,76.8112626,http://chandigarhgolfclub.in,,chandigarhgolfclub,,
-Asia,Indonesia,Bali,International Resort Golf Club,2023*,Mickelson,Renovation,Drawing boards,,-8.6205702,115.09305,https://www.nytimes.com/2019/08/13/world/asia/donald-trump-jr-indonesia.html,,,Formerly Nirwana Bali,
+Asia,Indonesia,Bali,International Resort Golf Club,2023,Mickelson,Renovation,Drawing boards,,-8.6205702,115.09305,https://www.nytimes.com/2019/08/13/world/asia/donald-trump-jr-indonesia.html,,,Formerly Nirwana Bali,
 Asia,Indonesia,Jakarta,MNC Lido City,2021,Els,New,Construction,,-6.7511126,106.8160074,https://www.nytimes.com/2019/08/13/world/asia/donald-trump-jr-indonesia.html,,,,
 Asia,Japan,Fukuoka,Keya GC,2020,Jansen,Bunkers,Ongoing,,33.5888209,130.1331304,https://www.keyagc.co.jp/index.html,,,,
 Asia,Japan,Hyogo,Hirono,2019,Ebert,Restoration,Open,Allison,34.770391,135.021666,https://www.google.com/search?q=Hirono+golf,,,,
@@ -22,16 +22,16 @@ Asia,Vietnam,Hanoi,Stone Valley (2nd 18),2021,Curley,New ,Construction,,20.53623
 Asia,Vietnam,Hanoi,Yen Dung Resort (Rock Valley),,Albanese Lutzke,New,Construction,,21.2148161,106.1953002,https://www.google.com/search?q=Yen+Dung+Resort+Vietnam+Golf,RZW2qCn4_3c,,,2019
 Asia,Vietnam,Hoi An,Hoiana Shores,2020,RTJ2,New ,Open,,15.8231614,108.4009876,https://www.hoiana.com/golf,mCB-8dH45RI,hoianashoresgolf,,Introduction
 Asia,Vietnam,Ninh Binh,Royal GC (Queens),2021,JWN2,New,Construction,,,,https://www.google.com/search?q=Royal+Golf+Nicklaus+Vietnam,gL9RCLV0-2A,,,Nov 2019
-AU/NZ,Australia,New South Wales,Royal Sydney,*,Hanse,Masterplan, Drawing boards ,Kent,-33.8731218,151.2639356,https://www.rsgc.com.au/cms/,,theroyalsydneygolfclub,,
-AU/NZ,Australia,South Australia,Kangeroo Island,*,Oliver,New,Drawing boards,,-35.8156647,136.7734605,https://www.golfaustralia.com.au/News/spectacular-kangaroo-island-course-gets-the-green-light-467715,,,,
-AU/NZ,Australia,Tasmania,Arm End,*,Crafter-Mogford,New,Drawing boards,,-42.9744534,147.3857366,http://www.golfstrategies.com.au/arm-end,,,,
+AU/NZ,Australia,New South Wales,Royal Sydney,,Hanse,Masterplan, Drawing boards ,Kent,-33.8731218,151.2639356,https://www.rsgc.com.au/cms/,,theroyalsydneygolfclub,,
+AU/NZ,Australia,South Australia,Kangeroo Island,,Oliver,New,Drawing boards,,-35.8156647,136.7734605,https://www.golfaustralia.com.au/News/spectacular-kangaroo-island-course-gets-the-green-light-467715,,,,
+AU/NZ,Australia,Tasmania,Arm End,,Crafter-Mogford,New,Drawing boards,,-42.9744534,147.3857366,http://www.golfstrategies.com.au/arm-end,,,,
 AU/NZ,Australia,Victoria,National (Gunnamatta),2019,Doak,Renovation ,Open,Thompson/Wolveridge,-38.4604737,144.8805392,https://www.nationalgolf.com.au/cms/,Fjw-BD0V1Pk,,Formerly Ocean Course,Caddie Productions
 AU/NZ,Australia,Victoria,Peninsula Kingswood (S),2019,OCCM,Renovation,Open,Morpeth,-38.1316545,145.1573601,https://www.peninsulakingswood.com.au/cms/,0F0FVZY9KfA,peninsulakingswood,North Opened 2018,Before/After
-AU/NZ,NZ,North Island,Tara Iti ,*,Coore Crenshaw,New, Drawing boards ,,-36.1265157,174.616897,http://www.taraiti.com/,,taraitigolfclub,,
-AU/NZ,NZ,North Island,Tara Iti ,*,Doak,New, Drawing boards ,,-36.1265157,174.616897,http://www.taraiti.com/,,taraitigolfclub,,
-Europe,Cyprus,Pissouri,Eagle Pine Resort,2022*,G. Marsh,New, Drawing boards ,,34.6780776,32.7366499,https://eaglepineresort.com/,,,,
+AU/NZ,NZ,North Island,Tara Iti ,,Coore Crenshaw,New, Drawing boards ,,-36.1265157,174.616897,http://www.taraiti.com/,,taraitigolfclub,,
+AU/NZ,NZ,North Island,Tara Iti ,,Doak,New, Drawing boards ,,-36.1265157,174.616897,http://www.taraiti.com/,,taraitigolfclub,,
+Europe,Cyprus,Pissouri,Eagle Pine Resort,2022,G. Marsh,New, Drawing boards ,,34.6780776,32.7366499,https://eaglepineresort.com/,,,,
 Europe,France,Orleans,Les Bordes (New),2020,Hanse,New,Construction,,47.7332276,1.681165,https://www.lesbordes.com/,,lesbordesgolf,,
-Europe,France,Orleans,Les Bordes Intl.,2021*,Hanse,Renovation, Drawing boards ,von Hagge/Baril,47.7332276,1.681165,https://www.lesbordes.com/,,lesbordesgolf,,
+Europe,France,Orleans,Les Bordes Intl.,2021,Hanse,Renovation, Drawing boards ,von Hagge/Baril,47.7332276,1.681165,https://www.lesbordes.com/,,lesbordesgolf,,
 Europe,Germany,Hamburg,Maritim Golfpark Ostsee,2021,Pont Hilgert,Renovation,Construction,,53.9655184,10.8072486,https://www.maritim.com/en/golfpark,,,,
 Europe,Greece,Costa Navarino,Navarino Hills (Bay),2021,Olazabal,New,Construction,,36.9366121,21.7166891,https://www.costanavarino.com/golf-resort/bay-course/,LP4yDaV2zVA,,,Olazabal
 Europe,Greece,Costa Navarino,Navarino Hills (Dunes),2021,Olazabal,New,Construction,,36.996698,21.6520333,https://www.costanavarino.com/golf-resort/dunes-course/,LP4yDaV2zVA,,,Olazabal
@@ -45,8 +45,8 @@ GB&I,England,Kent,Royal Cinque Ports,2019,Ebert,Redesign of holes 3 16,Open,Brai
 GB&I,England,Lincolnshire,Woodhall Spa,2019,Doak,Renovation,Open,Vardon/Colt/Hotchkin,53.1555127,-0.2077424,https://www.woodhallspagolf.com/hotchkin_course,zE4lfHKuNfg,woodhallspagolfshop,,Hole 17
 GB&I,England,Norfolk,Royal Norwich ,2019,Eur Golf Design (McMurray),New ,Open,,52.7158096,1.1147599,https://www.royalnorwichgolf.co.uk/,wEXBUBLlF3o,royalnorwichgolf,,Hole 18
 GB&I,England,Straffordshire,JCB Hiseman,2019,Hiseman,New,Open,,52.9460575,-1.8604687,https://www.jcbgolfandcountryclub.com/,eUDSGhOq4yI,jcbgolfcc,, Feb 2019
-GB&I,England,Surrey,The Addington,*,Clayton DeVries Pont,Masterplan, Drawing boards ,Abercromby,51.3647942,-0.0404705,https://addingtongolf.com/,,theaddingtongc,,
-GB&I,Ireland,Donegal,St Patricks,2021*,Doak,total Renovation, Drawing boards ,Hackett/OHaire ,55.188626,-7.8317614,https://www.stpatrickslinks.ie/,,stpatrickslinks,Formerly Mahermagorgan and Tra Mor,
+GB&I,England,Surrey,The Addington,,Clayton DeVries Pont,Masterplan, Drawing boards ,Abercromby,51.3647942,-0.0404705,https://addingtongolf.com/,,theaddingtongc,,
+GB&I,Ireland,Donegal,St Patricks,2021,Doak,total Renovation, Drawing boards ,Hackett/OHaire ,55.188626,-7.8317614,https://www.stpatrickslinks.ie/,,stpatrickslinks,Formerly Mahermagorgan and Tra Mor,
 GB&I,Ireland,Donegel,Narin & Portnoo,2020,Hanse,Renovation,Open,Wallace/McNeill/Connaughton,54.8402416,-8.4453594,https://www.narinandportnoolinks.com/,uisZ8wylGQ8,narinportnoolinks,,New 9th Hole
 GB&I,Ireland,Dublin,The Island,2019,Ebert,Renovation of front 9,Open,F Hawtree/Hackett,53.4634539,-6.1360027,https://www.theislandgolfclub.ie/,kS3l6kXaRFk,theislandgolfclub,,Before
 GB&I,Scotland,Dunbartonshire,Loch Lomond,2020,In-house,Redo drainage,Construction,Wesikopf Morrish,56.0734363,-4.6386978,https://www.lochlomond.com/,,,,
@@ -63,24 +63,24 @@ N America,USA,Arizona, Desert Highlands ,2019, JWN , Rebuild bunker; New irrigat
 N America,USA,California, Barona Creek ,2019, Eckenrode , Renovation , Open ,Eckenrode,32.9397337,-116.8760359,https://www.barona.com/resort/golf/,,,Back nine done as Phase I,
 N America,USA,California, Brambles ,, Coore Crenshaw, New , Construction ,,38.794528,-122.554361,https://brambler.wixsite.com/golf/golf,,,Status ?,
 N America,USA,California, La Jolla CC ,2019, Eckenrode , Renovation , Open ,Bell,32.8379052,-117.2712377,https://www.lajollacountryclub.com/,,lajollacountryclub,,
-N America,USA,California, Lake Merced ,*, Hanse , Master Planning , Drawing boards ,Mackenzie,37.6960003,-122.4742396,https://www.lmgc.org/,,lakemercedgolfclub,,
-N America,USA,California, Olympic (Lake) ,2024*, Hanse , Master Planning , Drawing boards ,Watson/Whiting,37.6961197,-122.5420908,https://campsite.bio/theolympicclub,,theolympicclub,,
+N America,USA,California, Lake Merced ,, Hanse , Master Planning , Drawing boards ,Mackenzie,37.6960003,-122.4742396,https://www.lmgc.org/,,lakemercedgolfclub,,
+N America,USA,California, Olympic (Lake) ,2024, Hanse , Master Planning , Drawing boards ,Watson/Whiting,37.6961197,-122.5420908,https://campsite.bio/theolympicclub,,theolympicclub,,
 N America,USA,California, Pebble Beach Hay par 3 ,2020, Woods , Total Rebuild , Construction ,,36.5696553,-121.9519442,,Xb4MlZk4Zt4,pebblebeachresorts,,Experience
 N America,USA,California, San Vicente ,2020, Staples , Retro/Reno , Construction , Robinson ,33.002199,-116.8079672,,,,,
 N America,USA,California, Valley Club of Montecito ,2019, Doak , Repair/Restore  , Open ,Mackenzie,34.4330977,-119.6174428,,,valleyclubofmontecito,flood damage,
 N America,USA,California, Yorba Linda CC ,2019, OCallaghan , Rebuild greens , Open , Rainville ,33.8771114,-117.7969457,,,,,
 N America,USA,California,Hillcrest CC,2019,Phillips,Renovation,Open,Watson,34.049096,-118.406087,https://www.hcc-la.com/,,,,
-N America,USA,Connecticut, CC of Farmington ,2020*, Dusenberry , Retro/Reno , Drawing boards ,Emmett,41.7268235,-72.8265404,,,,,
+N America,USA,Connecticut, CC of Farmington ,2020, Dusenberry , Retro/Reno , Drawing boards ,Emmett,41.7268235,-72.8265404,,,,,
 N America,USA,Florida, Ballen Isles (South) ,2020, Rees Jones , Renovation , Open ,Lee/Wilson,26.8321206,-80.1188657,https://www.ballenisles.org/golf,ed3vZPUlkdo,,,Construction
 N America,USA,Florida, Black Diamond (Quarry) ,2020, Whelchel , Bunker Re-build  , Open ,Fazio,28.9074048,-82.4920644,https://www.blackdiamondranch.com/quarry-course-tour/,9RMM67I8I3c,blackdiamondranch,,Quarry Holes
 N America,USA,Florida, Bonita Bay (May Island) ,2019, Hills Forrest Smith , Renovation , Open ,Hills,26.3522052,-81.8158415,,BiBCXiHlgZg,,, April 2020
-N America,USA,Florida, Colliers Reserve ,2021*, Hills Forrest Smith , Restoration , Drawing boards ,Hills,26.2841382,-81.7957091,,NhwPVK-7fn0,,,Arthur Hills
+N America,USA,Florida, Colliers Reserve ,2021, Hills Forrest Smith , Restoration , Drawing boards ,Hills,26.2841382,-81.7957091,,NhwPVK-7fn0,,,Arthur Hills
 N America,USA,Florida, Fort Lauderdale (N) ,2019, Schulties , Renovation , Open , Lawrence ,26.1150648,-80.2100687,,,,,
 N America,USA,Florida, Grove XXIII ,2020, Weed , New , Open ,,27.0455063,-80.2166297,https://www.grovexxiii.com/,,grovexxiii,,
-N America,USA,Florida, Martin County ,*, Sanford , 36--> 18 & Reverse 9 , Drawing boards ,Langford,27.1797094,-80.2066762,,LYauFc6BUUY,,,News
-N America,USA,Florida, Mountain Lake ,*, Hanse , Retro/Reno , Drawing boards , Raynor ,27.9369651,-81.594621,,,,,
+N America,USA,Florida, Martin County ,, Sanford , 36--> 18 & Reverse 9 , Drawing boards ,Langford,27.1797094,-80.2066762,,LYauFc6BUUY,,,News
+N America,USA,Florida, Mountain Lake ,, Hanse , Retro/Reno , Drawing boards , Raynor ,27.9369651,-81.594621,,,,,
 N America,USA,Florida, Old Memorial ,2021, Smyers , Retro/Reno + regrass , Construction ,Smyers,28.0785677,-82.596775,,,oldmemorialgc,,
-N America,USA,Florida, PGA Natl (Squire) ,2021*, Staples , Substantial rebuild , Drawing boards , G & T Fazio ,26.8290965,-80.1435211,,,,,
+N America,USA,Florida, PGA Natl (Squire) ,2021, Staples , Substantial rebuild , Drawing boards , G & T Fazio ,26.8290965,-80.1435211,,,,,
 N America,USA,Florida, Quail Ridge (S) ,2020, Weed , Renovation , Open ,Lee,26.5066913,-80.1035551,,ZKdYCLcuoXA,,,Preview
 N America,USA,Florida,Countryside,2019,Schulties,Renovation,Open,Hills,26.141877,-81.724395,https://www.countrysidegcc.net/,3oZv63BlrcI,,,Before/After
 N America,USA,Georgia, McLemore ,2019, Rees Jones/Bergin , Total Rebuild , Open ,,34.7414494,-85.7267743,https://www.themclemore.com/,7QGvnDz1e0k,,Formerly Canyon Ridge Club,30 seconds
@@ -90,10 +90,10 @@ N America,USA,Illinois,Sportsman's,2021,Jacobson, Total Rebuild , Construction ,
 N America,USA,Indiana, Indiana U ,2020, Smyers Zoeller, Total Rebuild , Construction ,,39.1789233,-86.508093,https://pfaucourse.com/,Dmg2EnDMV_M,,,Sneak Peek
 N America,USA,Maryland,Woodmont (North),2020,McDonald,Renovation,Open,Tull,39.0647721,-77.140173,https://www.woodmontcc.com/,,,,
 N America,USA,Massachusetts, The Country Club ,2021, Hanse , Retro/Reno , Construction ,Flynn,42.314817,-71.1500147,,,, modif for 22 US Open,
-N America,USA,Massachusetts, Woodland ,2021*, Tyler Rae , Bunker Renovation , Drawing boards ,Stiles/Ross/Cornish,42.3358333,-71.2474665,,,,,
-N America,USA,Michigan, Bloomfield Hills ,2020*, DeVries/Pont , Redesign 4 holes etc. , Drawing boards ,Colt,42.5829101,-83.254828,https://www.bloomfieldhillscc.org/,,,,
+N America,USA,Massachusetts, Woodland ,2021, Tyler Rae , Bunker Renovation , Drawing boards ,Stiles/Ross/Cornish,42.3358333,-71.2474665,,,,,
+N America,USA,Michigan, Bloomfield Hills ,2020, DeVries/Pont , Redesign 4 holes etc. , Drawing boards ,Colt,42.5829101,-83.254828,https://www.bloomfieldhillscc.org/,,,,
 N America,USA,Michigan, Oakland Hills-S ,2021, Hanse , Retro/Reno , Construction , Ross/RTJ ,42.5438996,-83.2798757,https://www.oaklandhillscc.com/,h_ygielCaKU,,,Steve Brady
-N America,USA,Minnesota,Midland Hills,2020*,Urbina,Reno, Drawing boards ,Raynor,45.0013189,-93.1968648,http://www.midlandhillscc.org/,,,,
+N America,USA,Minnesota,Midland Hills,2020,Urbina,Reno, Drawing boards ,Raynor,45.0013189,-93.1968648,http://www.midlandhillscc.org/,,,,
 N America,USA,Missouri, Ozarks National ,2019, Coore Crenshaw , New , Open ,,36.5612078,-93.1990332,https://bigcedar.com/golf/ozarks-national-course/,,bigcedarlodge,,
 N America,USA,Missouri, Paynes Valley ,2020, Woods , New , Construction ,,36.5650603,-93.202164,https://bigcedar.com/golf/paynes-valley-course/,,bigcedarlodge,,
 N America,USA,Nebraska, Landman,2021, King/Collins , New , Construction ,,42.3222706,-96.4986368,https://twitter.com/KingCollinsGolf,,,,
@@ -105,26 +105,26 @@ N America,USA,New Jersey, Union League,2022, Fry/Straka , Retro/Reno , Construct
 N America,USA,New York, formerly Rondout ,2020, King/Collins , Total Rebuild , Construction ,9 holes,41.7983037,-74.2313727,,,,,
 N America,USA,New York, Oak Hill-East ,2021, Green/Sluman , Retro/Reno , Construction , Ross/G Fazio ,43.1128367,-77.5349478,,,,,
 N America,USA,New York, Pelham CC ,2020, DeVries , Retro/Reno , Construction ,Emmett,40.8947906,-73.8020029,,,pelhamcc,1923 PGA Championship,
-N America,USA,North Carolina, Highlands Falls ,2021*, Bergin , Renovation , Drawing boards , Lee ,35.0707677,-83.1869745,https://www.clubhfcc.com/,fLg-fR34Bf8,,,Highlands NC
-N America,USA,North Carolina, Sequoyah Natl ,2020*, RTJ2 , Regrass & Bunkers , Drawing boards , RTJ2/Begay ,35.4320825,-83.3312047,https://www.sequoyahnational.com/,qXuPcdPgy_U,,,Breathtaking
+N America,USA,North Carolina, Highlands Falls ,2021, Bergin , Renovation , Drawing boards , Lee ,35.0707677,-83.1869745,https://www.clubhfcc.com/,fLg-fR34Bf8,,,Highlands NC
+N America,USA,North Carolina, Sequoyah Natl ,2020, RTJ2 , Regrass & Bunkers , Drawing boards , RTJ2/Begay ,35.4320825,-83.3312047,https://www.sequoyahnational.com/,qXuPcdPgy_U,,,Breathtaking
 N America,USA,North Dakota, Fox Hills,2020, Norby , Total rebuild , Construction ,,47.8051069,-103.2353582,https://foxhillsgc.com/index.htm,,,Formerly Watson City Golf,
-N America,USA,Ohio, Muirfield Village ,2021*, JWN , greens bunkers +3 back tees, Drawing boards ,Muirhead,40.1404847,-83.1431117,,JAnzbCYp0xs,muirfieldvillagegolfclub,,Columbus Dispatch 2019
+N America,USA,Ohio, Muirfield Village ,2021, JWN , greens bunkers +3 back tees, Drawing boards ,Muirhead,40.1404847,-83.1431117,,JAnzbCYp0xs,muirfieldvillagegolfclub,,Columbus Dispatch 2019
 N America,USA,Oklahoma, Oklahoma City G&CC ,2020, Davis , Restoration , Open ,Maxwell ,35.5470052,-97.5525659,https://www.okcgcc.com/,X46b7PCnAGs,,,Aerial Tour
 N America,USA,Oklahoma,Southern Hills,2019,Hanse,Notably holes 2 17, Open ,Maxwell ,36.0700901,-95.9454585,https://www.southernhillscc.com/,TiCRWD0c_a8,,,Russ Myers
 N America,USA,Oregon, Sheep Ranch ,2020, Coore Crenshaw , Total Rebuild , Construction ,,43.2187883,-124.392781,https://sheepranch.golf/,aJkXt4Y2stQ,bandondunesgolf,,
 N America,USA,Pennsylvania, Merion ,2019, Hanse , Retro/Reno , Open , Wilson ,40.0018685,-75.3139925,,,,,
 N America,USA,South Carolina, Quixote Club  ,2021, Nicklaus Spence, Total Renovation , Construction ,,33.8948015,-80.3750896,https://twitter.com/quixoteclub,,,Formerly Sunset CC,
 N America,USA,South Carolina, Reserve Club (Hollow Creek) ,2019, Johnston Zoeller, Complete 18 hole course , Open , Johnston/Zoeller ,33.4892384,-81.7438575,https://www.thereserveclubatwoodside.com/golf,xYta3-YmzjI,,,Construction
-N America,USA,Texas, Brook Hollow ,2020*, Foster , Retro , Drawing boards , Tillinghast ,32.8342292,-96.8661032,https://www.brookhollowgc.org/,,,,
+N America,USA,Texas, Brook Hollow ,2020, Foster , Retro , Drawing boards , Tillinghast ,32.8342292,-96.8661032,https://www.brookhollowgc.org/,,,,
 N America,USA,Texas, Memorial Park ,2019, Doak Koepka, Renovation , Open , Bredemus ,29.7699901,-95.4393084,https://www.houstonmunigolf.com/,I0E6S3EaNHw,,,Tour
 N America,USA,Texas, Nine Grand ,2021, Nuzzo , New , Construction ,,30.3339685,-95.0625121,,,,Putt 9; Par 3 Nine; Short Nine,
 N America,USA,Texas, PGA HQ-East ,2022, Hanse , New , Construction ,,33.1506046,-96.9678833,https://www.visitfrisco.com/pga/,,,,
 N America,USA,Texas, PGA HQ-West ,2022, Welling , New , Construction ,,33.1506046,-96.9678833,https://www.visitfrisco.com/pga/,,,,
 N America,USA,Texas, Whispering Pines ,2020, JWN/Williams , Regrass ,Construction, Williams ,30.9455605,-95.2524519,http://www.whisperingpinesgolfclub.com/,1uM6B9KgCVY,,,Hole 16
 N America,USA,Utah, Copper Rock ,2020, Beddo , New , Construction ,,37.1115307,-113.3196172,https://copperrock.com/,cfGwrSLFwnI,,,Opening
-N America,USA,Utah, Entrada ,2020*, Kidd , Major rebuild/design , Drawing boards , Miller ,37.1546372,-113.6396556,https://www.golfentrada.com/golf/view-the-course/1,gQAGepTPgBI,entradasnowcanyon,,Animation
+N America,USA,Utah, Entrada ,2020, Kidd , Major rebuild/design , Drawing boards , Miller ,37.1546372,-113.6396556,https://www.golfentrada.com/golf/view-the-course/1,gQAGepTPgBI,entradasnowcanyon,,Animation
 N America,USA,Vermont, Burlington CC ,2021, McNeil , Retro/Reno , Construction ,Ross,44.4663749,-73.197558,,,,bunker update & drainage improve,
-N America,USA,Virginia, Belmont ,2021*, Love III , Total rebuild , Drawing boards , Tillinghast ,37.6183634,-77.4641819,https://www.belmontcountryclub.com/golf,KWw10Ea98VY,, 12 holes & 6 hole par 3; First Tee,Hole 18
+N America,USA,Virginia, Belmont ,2021, Love III , Total rebuild , Drawing boards , Tillinghast ,37.6183634,-77.4641819,https://www.belmontcountryclub.com/golf,KWw10Ea98VY,, 12 holes & 6 hole par 3; First Tee,Hole 18
 N America,USA,Virginia, Washington G&CC ,2019, Doak Iverson, Substantial Renovation , Open ,Ross/Flynn ,38.9075733,-77.1324319,https://www.washingtongolfcc.org/Golf,wXpe6zY-2yQ,,,April 2019
 N America,USA,Wisconsin,Sand Valley(Sedge Valley),2021, Doak , New , Construction ,,44.1717,-89.8555,,YMndcegdf7A,,,Resort Video
 S America,Brazil,Itatiba,Santapazienza,2021,Logan Fazio,Renovation,Construction,Tom Fazio,-23.0655221,-46.8337545,,,,,
