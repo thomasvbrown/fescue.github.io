@@ -1,18 +1,183 @@
 ---
-layout: default
----
 
+---
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/dt/dt-1.10.9/datatables.min.css"/>
+<script type="text/javascript" src="https://cdn.datatables.net/r/dt/dt-1.10.9/datatables.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Droid Sans', 'Droid Serif']
+    }
+  });
+</script>
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165022482-1"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-165022482-1');
+    </script>
+
+    <style>
+        table { border-collapse: collapse; }
+        th { border: 1px solid #999;
+                padding: 0.5rem;
+                text-align: left; 
+                font-size: 12px; }
+      td { border: 1px solid #999;
+                padding: 0.5rem;
+                text-align: left; 
+                font-size: 11px; }
+      footer { background-color: #c5e6f1; text-align: justify;} 
+      aside {background-color: ; text-align: justify;}
+    </style>
+    <style type="text/css">
+      .ui-datatable,
+      .ui-datatable .ui-datatable-tablewrapper table { font-size: 11px !important; }
+              
+      /* For Paginator */
+      .ui-datatable .ui-paginator .ui-paginator-first, 
+      .ui-datatable .ui-paginator .ui-paginator-prev, 
+      .ui-datatable .ui-paginator .ui-paginator-pages .ui-paginator-page, 
+      .ui-datatable .ui-paginator .ui-paginator-next, 
+      .ui-datatable .ui-paginator .ui-paginator-last, 
+      .ui-datatable .ui-paginator .ui-paginator-rpp-options { font-size: 9px !important; }
+              
+      .ui-datatable .ui-paginator .ui-paginator-current { font-size: 9px !important; }
+    </style>
+
+
+<!--        
+                -->
+
+</head>
+
+<p>&nbsp;</p>
+
+<div class="container">
+  <div class="row justify-content-md-center">
+<!--
+    <div class="col col-md-1">
+    </div>
+-->
+    <div class="col-md-12">
+     <figure>
+     <table id="golf" class="display table-striped table-bordered" cellspacing="1" width="98%">
+          <thead>
+              <tr> 
+                <th>Region</th>
+                <th>Country</th>
+                <th>Location</th>
+                <th>Course</th>
+                <th>Date</th>
+                <th>Architect</th>
+                <th>History</th>
+                <th>Type of Job</th>
+                <th>Status</th>
+                <th>YouTube</th>
+                <th>Instagram</th>
+                <th>Comments</th>
+              </tr>
+          </thead>
+          <tbody>
+              {% for item in site.data.allGolf %}
+                  <tr> 
+                    <td>{{ item.Region }}</td>
+                    <td>{{ item.Country }}</td>
+                    <td><a href="https://www.google.com/maps/@{{item.Latitude}},{{item.Longitude}},14z"> {{ item.Location }} </a></td>
+                    <td><a href="{{ item.Website }}">{{ item.Course }}</a> </td>
+                    <td>{{ item.Date }}*</td>
+                    <td>{{ item.Architect }}</td>
+                    <td>{{ item.History }}</td>
+                    <td>{{ item.TypeOfJob }}</td>
+                    <td>{{ item.Status }}</td>
+                    <td><a href="https://www.youtube.com/watch?v={{ item.YouTube }}">{{ item.YouTubeCaption }}</a> </td>
+                    <td><a href="https://www.instagram.com/{{ item.Instagram }}">{{ item.Instagram }}</a> </td>
+                    <td>{{ item.Comments }}</td>
+                  </tr>
+              {% endfor %}
+            </tbody>
+     </table>
+     </figure>
+    </div>
+
+<!--    <div class="col col-md-1">
+    </div>
+-->
+  </div>
+</div>
+
+
+<p>&nbsp;</p>
+
+<!--
+<script>
+    $(document).ready(function () {
+           
+        $('#golf').DataTable( {
+            "paging":   false,
+      			"fixedHeader": true,
+          	"autoWidth": true
+        } );    
+    });
+</script>
+-->
+
+
+<script>
+  $(document).ready(function () {
+   var oTable = $('#golf').dataTable( {
+        "bJQueryUI": true,
+        "bPaginate": false,
+        //"iDisplayLength": 5,
+        //"aLengthMenu": [[5, 25, 50, -1], [5, 25, 50, "All"]],
+        //"iDisplayStart": 5,
+        //"sPaginationType": "full_numbers",
+        //"sScrollX": "100%",
+        //"sScrollXInner": "150%",
+        "bScrollCollapse": true,
+        "bFilter": false
+    } );    
+    new FixedColumns( oTable, {
+        "iLeftColumns": 4,
+        "iLeftWidth": 350
+    } );
+  });
+</script>
+
+<H4>
+* for all courses in planning stage, date represents start construction date, not opening date.
+</H4>
+
+<footer>
+  <!-- <p></p> -->
+  <nav>
+  <p>Creators and managers of this list make no representations as to its accuracy, completeness, and/or its validity.  Users do so at their own risk. <a href="https://opensource.org/licenses/MIT">MIT License</a></p>
+  </nav>
+  <p>Questions?  Updates?  New Golf Courses?  Send email to Paul Rudovsky or Thomas Brown</p>
+</footer>
+  
+
+
+
+<!--  Future blog
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
+-->
