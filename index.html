@@ -25,7 +25,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'UA-165022482-1');
     </script>
 
@@ -87,7 +86,7 @@
           <tbody>
               {% for item in site.data.allGolf %}
                   <tr>
-                    <td>{{ item.Region }}</td>
+                    <td>{{ item.Region }}</td> 
                     <td>{{ item.Country }}</td>
                     <td><a href="https://www.google.com/maps/@{{item.Latitude}},{{item.Longitude}},14z"> {{ item.Location }} </a></td>
                     <td><a href="{{ item.Website }}">{{ item.Course }}</a> </td>
