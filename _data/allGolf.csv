@@ -1,5 +1,5 @@
 Region,Country,Location,Course,Date,Architect,TypeOfJob,Status,History,Latitude,Longitude,Website,YouTube,Instagram,Comments,YouTubeCaption
-Africa,Morocco ,El Jadida,El Jadida,2019,Duncan,Renovation,Open,,33.2447243,-8.4950871,http://golf-eljadida.com/,EUftj6Zujvc,,,Infos Tourisme
+Africa,Morocco ,El Jadida,El Jadida,2019,Duncan,Renovation,Open,Cabell Robinson,33.2447243,-8.4950871,http://golf-eljadida.com/,EUftj6Zujvc,,,Infos Tourisme
 Africa,Rwanda ,Kigali,Kigali Golf,2020,Player,New,Open,,-1.9294217,30.0405576,http://www.kigaligolfclub.com,rLgzj2yq2w0,,New 9 holes,Expansion
 Asia,Bangladesh,Bangladesh,Cox’s Bazar,2019,Jansen,New,Open,,21.3737396,92.076743,http://www.jansengolfdesign.com/blog/ramu-golf-cox-bazar-bangladesh/,,,,
 Asia,Cambodia,Phnom Penh,Vattanac-East,2019,Faldo,New,Open,,11.4688376,105.0167496,https://www.vattanacgolfresort.com/,Z6zdXBNqh48,vattanac.golf.resort,,Flyover
@@ -47,7 +47,6 @@ Europe,Germany,Hamburg,Maritim Golfpark Ostsee,2021,Pont Hilgert,Renovation,Cons
 Europe,Greece,Costa Navarino,Navarino Hills (Bay),2021,Olazabal,New,Construction,,36.9366121,21.7166891,https://www.costanavarino.com/golf-resort/bay-course/,LP4yDaV2zVA,,,Olazabal
 Europe,Greece,Costa Navarino,Navarino Hills (Dunes),2021,Olazabal,New,Construction,,36.996698,21.6520333,https://www.costanavarino.com/golf-resort/dunes-course/,LP4yDaV2zVA,,,Olazabal
 Europe,Italy,Roma,Marco Simone,2022,Fazio II EGD(Slessor),Renovation,Drawing boards,Simone,41.959633,12.6295893,http://www.golfmarcosimone.com/en/,lG-OAQfUFGQ,,Ryder Cup 2022,As of 2020
-Europe,Italy,Sicily,Verdura,2021,Phillips,Renovation,Construction,,37.4692887,13.1949105,,EE17SnLoLjg,,Both Courses,2016
 Europe,Portugal,Monte Rei,South Course,2021,Nicklaus,New,Drawing boards,,37.2085504,-7.5513703,https://www.monte-rei.com/,yKH7YDlR9PM,montereiresort,,João Goulão
 Europe,Scotland,Dornoch,Royal Dornoch,2020, Mackenzie,Renovation,Construction,Morris,57.8789661,-4.028028,https://royaldornoch.com/,edvpZ8SeWFU,,new #7 summer 2020,Construction
 Europe,Scotland,Nairn,Nairn,2020,Mackenzie,Renovation,Ongoing,Morris,57.5877964,-3.8976299,http://www.nairngolfclub.co.uk/,HteCIQRdVPQ,,bunkers and several greens, Nov 2018
