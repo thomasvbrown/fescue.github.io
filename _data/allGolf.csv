@@ -48,8 +48,6 @@ Europe,Greece,Costa Navarino,Navarino Hills (Bay),2021,Olazabal,New,Construction
 Europe,Greece,Costa Navarino,Navarino Hills (Dunes),2021,Olazabal,New,Construction,,36.996698,21.6520333,https://www.costanavarino.com/golf-resort/dunes-course/,LP4yDaV2zVA,,,Olazabal
 Europe,Italy,Roma,Marco Simone,2022,Fazio II EGD(Slessor),Renovation,Drawing boards,Simone,41.959633,12.6295893,http://www.golfmarcosimone.com/en/,lG-OAQfUFGQ,,Ryder Cup 2022,As of 2020
 Europe,Portugal,Monte Rei,South Course,2021,Nicklaus,New,Drawing boards,,37.2085504,-7.5513703,https://www.monte-rei.com/,yKH7YDlR9PM,montereiresort,,João Goulão
-Europe,Scotland,Dornoch,Royal Dornoch,2020, Mackenzie,Renovation,Construction,Morris,57.8789661,-4.028028,https://royaldornoch.com/,edvpZ8SeWFU,,new #7 summer 2020,Construction
-Europe,Scotland,Nairn,Nairn,2020,Mackenzie,Renovation,Ongoing,Morris,57.5877964,-3.8976299,http://www.nairngolfclub.co.uk/,HteCIQRdVPQ,,bunkers and several greens, Nov 2018
 Europe,Spain,Madrid,Real Club Puerta de Hierro (Upper),2021,Pont,Renovation,Ongoing,Colt,40.460686,-3.7366811,https://www.rcphierro.com/index.php,,,,
 Europe,Spain,San Roque,San Roque (Old),2020,In-house,Renovation,Construction,Thomas,36.2660153,-5.3382047,https://www.sanroqueclub.com/,FsaJ4YyvtSA,,, Dec 2019
 Europe,Sweden,Stockholm,Österåker Golfklubb,2019,Lundin Stenson,Renovation,Open,,59.4913577,18.2518906,https://www.ostgk.se/,QrNUweDtO64,,,nya superbana
@@ -66,8 +64,10 @@ GB&I,England,Surrey,The Addington,*,Clayton DeVries Pont,Masterplan, Drawing boa
 GB&I,Ireland,Donegal,St Patricks,2021*,Doak,total Renovation, Drawing boards ,Hackett/OHaire ,55.188626,-7.8317614,https://www.stpatrickslinks.ie/,,stpatrickslinks,Formerly Mahermagorgan and Tra Mor,
 GB&I,Ireland,Donegel,Narin & Portnoo,2020,Hanse,Renovation,Open,Wallace/McNeill/Connaughton,54.8402416,-8.4453594,https://www.narinandportnoolinks.com/,uisZ8wylGQ8,narinportnoolinks,,New 9th Hole
 GB&I,Ireland,Dublin,The Island,2019,Ebert,Renovation of front 9,Open,F Hawtree/Hackett,53.4634539,-6.1360027,https://www.theislandgolfclub.ie/,kS3l6kXaRFk,theislandgolfclub,,Before
+GB&I,Scotland,Dornoch,Royal Dornoch,2020, Mackenzie,Renovation,Construction,Morris,57.8789661,-4.028028,https://royaldornoch.com/,edvpZ8SeWFU,,new #7 summer 2020,Construction
 GB&I,Scotland,Dunbartonshire,Loch Lomond,2020,In-house,Redo drainage,Construction,Wesikopf Morrish,56.0734363,-4.6386978,https://www.lochlomond.com/,,,,
 GB&I,Scotland,Fife,Dumbarnie,2020,Clive Clark,New,Open,,56.2101486,-2.9763285,https://www.dumbarnielinks.com/,W3H1nJI2ec,dumbarniegolflinks,,Iona Stephen
+GB&I,Scotland,Nairn,Nairn,2020,Mackenzie,Renovation,Ongoing,Morris,57.5877964,-3.8976299,http://www.nairngolfclub.co.uk/,HteCIQRdVPQ,,bunkers and several greens, Nov 2018
 N America,Canada,Alberta,Mickelson National,2020,Mickelson,New,Construction,,51.118588,-114.386547,https://www.mickelsonnational.com/,,mickelsonnationalgolf,,
 N America,Canada,Nova Scotia,Cabot Nest,2020,Whitman Axland,New ,Construction,,46.2365266,-61.3044246,https://www.cabotlinks.com/golf/the-nest/,,,10 hole par 3 course ,
 N America,Canada,Ontario,Hamilton,2021,Ebert,Restoration ,Construction,Colt/Robinson,43.2188889,-79.9791331,http://www.hgcc.ca,,hamiltongolfandcountryclub,Colt 18 renov East 9,
@@ -75,7 +75,6 @@ N America,Canada,Ontario,Seven Lakes,2021,-,Renovation,,,,,,m1VbNUbGlXU,,,Constr
 N America,Mexico,Baja Peninsula,Costas Palmas,2019,RTJ2,New,Open,,23.610738,-109.5920616,https://costapalmas.com/,qmoyWMl4Dm0,costapalmas,,Golf at
 N America,Mexico,Cabo,Cabo del Sol,2019,JWN,Renovation change 7 17 & 18,Open,JWN,22.9152794,-109.8441904,https://www.cabodelsol.com/,,cabodelsolgolfclub,,
 N America,Mexico,Cabo,Rancho San Lucus,2020,Norman,New,Open,,22.9136626,-110.0138842,https://ranchosanlucas.com/golf/,upG9MNhwCsE,ranchosanlucas,,Historical
-N America,Mexico,Cabo,Twin Dolphins,2019,Eckenrode,New,Open,,22.9355809,-109.8292504,https://twindolphinloscabos.com/,kwYoPHPYdi4,,,Trailer
 N America,St Lucia,St Lucia,Cabot Point,2021,Coore Crenshaw,New,Construction,,14.074383,-60.935679,https://cabotsaintlucia.com/,,,,
 N America,USA,Alabama, CC Birmingham (East) ,2019, LaFoy , Tees bunkers irrigation reno , Open ,Ross/Cobb/LaFoy,33.4961874,-86.7693896,,,countryclubofbirmingham,,
 N America,USA,Arizona, Desert Highlands ,2019, JWN , Rebuild bunker; New irrigation , Open ,JWN,33.7161229,-111.8689393,https://www.deserthighlandsscottsdale.com/,sVboBNh5yIQ,,, Oct 2019
@@ -134,8 +133,8 @@ N America,USA,Ohio, Muirfield Village ,2021*, JWN , greens bunkers +3 back tees,
 N America,USA,Oklahoma, Oklahoma City G&CC ,2020, Davis , Restoration , Open ,Maxwell ,35.5470052,-97.5525659,https://www.okcgcc.com/,X46b7PCnAGs,,,Aerial Tour
 N America,USA,Oklahoma,Southern Hills,2019,Hanse,Notably holes 2 17, Open ,Maxwell ,36.0700901,-95.9454585,https://www.southernhillscc.com/,TiCRWD0c_a8,,,Russ Myers
 N America,USA,Oregon, Sheep Ranch ,2020, Coore Crenshaw , Total Rebuild , Construction ,,43.2187883,-124.392781,https://sheepranch.golf/,aJkXt4Y2stQ,bandondunesgolf,,
-N America,USA,Pennsylvania,Cobbs Creek,2021*,Hanse, Restoration , Drawing boards ,Wilson Flynn Crump,39.9674995,-75.2675135,http://friendsofcobbscreekgc.com/,,,,
 N America,USA,Pennsylvania, Merion ,2019, Hanse , Retro/Reno , Open , Wilson ,40.0018685,-75.3139925,,,,,
+N America,USA,Pennsylvania,Cobbs Creek,2021*,Hanse, Restoration , Drawing boards ,Wilson Flynn Crump,39.9674995,-75.2675135,http://friendsofcobbscreekgc.com/,,,,
 N America,USA,South Carolina, Quixote Club  ,2021, Nicklaus Spence, Total Renovation , Construction ,,33.8948015,-80.3750896,https://twitter.com/quixoteclub,,,Formerly Sunset CC,
 N America,USA,South Carolina, Reserve Club (Hollow Creek) ,2019, Johnston Zoeller, Complete 18 hole course , Open , Johnston/Zoeller ,33.4892384,-81.7438575,https://www.thereserveclubatwoodside.com/golf,xYta3-YmzjI,,,Construction
 N America,USA,Texas, Brook Hollow ,2020*, Foster , Retro , Drawing boards , Tillinghast ,32.8342292,-96.8661032,https://www.brookhollowgc.org/,,,,
