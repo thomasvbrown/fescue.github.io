@@ -1,6 +1,6 @@
 Region,Country,Location,Course,Date,Architect,TypeOfJob,Status,History,Latitude,Longitude,Website,YouTube,Instagram,Comments,YouTubeCaption
-Africa,Morocco ,El Jadida,El Jadida,2019,Duncan,Renovation,Open,Cabell Robinson,33.2447243,-8.4950871,http://golf-eljadida.com/,5MFVZb25578,,,2009
-Africa,Rwanda ,Kigali,Kigali Golf,2020,Player,New,Open,,-1.9294217,30.0405576,http://www.kigaligolfclub.com,rLgzj2yq2w0,,New 9 holes,Expansion
+Africa,Morocco,El Jadida,El Jadida,2019,Duncan,Renovation,Open,Cabell Robinson,33.2447243,-8.4950871,http://golf-eljadida.com/,5MFVZb25578,,,2009
+Africa,Rwanda,Kigali,Kigali Golf,2020,Player,New,Open,,-1.9294217,30.0405576,http://www.kigaligolfclub.com,rLgzj2yq2w0,,New 9 holes,Expansion
 Asia,Bangladesh,Bangladesh,Cox’s Bazar,2019,Jansen,New,Open,,21.3737396,92.076743,http://www.jansengolfdesign.com/blog/ramu-golf-cox-bazar-bangladesh/,,,,
 Asia,Cambodia,Phnom Penh,Vattanac-East,2019,Faldo,New,Open,,11.4688376,105.0167496,https://www.vattanacgolfresort.com/,Z6zdXBNqh48,vattanac.golf.resort,,Flyover
 Asia,Cambodia,Phnom Penh,Vattanac-West,2020,Faldo,New,Construction,,11.4688376,105.0167496,https://www.vattanacgolfresort.com/,,vattanac.golf.resort,,
@@ -31,7 +31,7 @@ AU/NZ,Australia,New South Wales,Royal Sydney,*,Hanse,Masterplan, Drawing boards 
 AU/NZ,Australia,South Australia,Kangeroo Island,*,Oliver,New,Drawing boards,,-35.8156647,136.7734605,https://www.golfaustralia.com.au/News/spectacular-kangaroo-island-course-gets-the-green-light-467715,,,,
 AU/NZ,Australia,Tasmania,Arm End,*,Crafter-Mogford,New,Drawing boards,,-42.9744534,147.3857366,http://www.golfstrategies.com.au/arm-end,,,,
 AU/NZ,Australia,Victoria,National (Gunnamatta),2019,Doak,Renovation ,Open,Thompson/Wolveridge,-38.4604737,144.8805392,https://www.nationalgolf.com.au/cms/,Fjw-BD0V1Pk,,Formerly Ocean Course,Caddie Productions
-AU/NZ,Australia,Victoria,Peninsula Kingswood (S),2019,OCCM,Renovation,Open,Morpeth,-38.1316545,145.1573601,https://www.peninsulakingswood.com.au/cms/,0F0FVZY9KfA,peninsulakingswood,North Opened 2018,Before/After
+AU/NZ,Australia,Victoria,Peninsula Kingswood (N),2019,OCCM,Renovation,Open,Morpeth,-38.1316545,145.1573601,https://www.peninsulakingswood.com.au/cms/,0F0FVZY9KfA,peninsulakingswood,South Opened 2017-8,Before/After
 AU/NZ,NZ,North Island,Tara Iti ,*,Coore Crenshaw,New, Drawing boards ,,-36.1265157,174.616897,http://www.taraiti.com/,,taraitigolfclub,,
 AU/NZ,NZ,North Island,Tara Iti ,*,Doak,New, Drawing boards ,,-36.1265157,174.616897,http://www.taraiti.com/,,taraitigolfclub,,
 Europe,Bulgaria,Sofia,OKOL Lake Park,2021*,Hiseman EGC,New,Construction,,42.4662629,23.5070195,,34tpBLs2yCU,,,Residential
