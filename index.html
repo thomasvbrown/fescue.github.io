@@ -47,8 +47,9 @@
       .ui-datatable .ui-paginator .ui-paginator-current { font-size: 9px !important; }
     </style>
 </head>
-
+<!--
 <p>&nbsp;</p>
+-->
 
 <div class="container">
   <div class="row justify-content-md-center">
@@ -58,7 +59,7 @@
 -->
     <div class="col-md-auto">
      <figure>
-     <table id="golf" class="display table-striped table-bordered" cellspacing="1" width="98%">
+     <table id="golf" class="display table-striped table-bordered" cellspacing="1" width="99%">
           <thead>
               <tr> 
                 <th>Region</th>
@@ -72,6 +73,7 @@
                 <th>Status</th>
                 <th>YouTube</th> 
                 <th>Instagram</th>
+                <th>Twitter</th>
                 <th>Comments</th>
                 <th>Data Curated</th>
               </tr>
@@ -90,6 +92,7 @@
                     <td>{{ item.Status }}</td> 
                     <td><a href="https://www.youtube.com/watch?v={{ item.YouTube }}">{{ item.YouTubeCaption }}</a> </td>
                     <td><a href="https://www.instagram.com/{{ item.Instagram }}">{{ item.Instagram }}</a> </td>
+                    <td><a href="https://www.twitter.com/{{ item.Twitter }}">{{ item.TwitterCaption }}</a> </td>
                     <td>{{ item.Comments }} </td>
                     <td>{{ item.DataCurated }} </td>
                   </tr>
